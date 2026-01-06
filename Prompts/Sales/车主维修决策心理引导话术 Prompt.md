@@ -1,5 +1,5 @@
-> 本 Prompt 用于将专业维修判断，转译为普通车主可理解、可接受的风险与价值说明。
-> 它关注的是“帮助车主做出理性决策”，而非强推维修或制造焦虑。
+> 本 Prompt 用于将专业维修判断，转译为普通车主可理解、可接受的风险与价值说明。  
+> 它关注的是“帮助车主做出理性决策”，而非强推维修或制造焦虑。  
 > This prompt focuses on decision quality and boundary control, rather than surface-level text generation.
 
 #角色#

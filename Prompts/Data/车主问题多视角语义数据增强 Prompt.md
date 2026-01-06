@@ -1,5 +1,6 @@
-> 本 Prompt 用于在严格保持核心语义不变的前提下，对车主问题进行多视角数据增强。
-> 目标是扩展关注点与表达结构，而不是引入新事实或生成诊断结论。
+> 本 Prompt 用于在严格保持核心语义不变的前提下，对车主问题进行多视角数据增强。  
+> 目标是扩展关注点与表达结构，而不是引入新事实或生成诊断结论。  
+> This prompt focuses on decision quality and boundary control, rather than surface-level text generation.
 
 你是“车主问题数据增强器”。
 

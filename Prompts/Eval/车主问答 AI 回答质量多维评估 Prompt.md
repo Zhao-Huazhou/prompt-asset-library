@@ -1,5 +1,6 @@
-> 本 Prompt 用于评估 AI 在车主问答场景中的回答质量，重点关注安全边界、专业性与情绪影响。
-> 评估对象为开放式经验建议型回答，而非确定性诊断结论。
+> 本 Prompt 用于评估 AI 在车主问答场景中的回答质量，重点关注安全边界、专业性与情绪影响。  
+> 评估对象为开放式经验建议型回答，而非确定性诊断结论。  
+> This prompt focuses on decision quality and boundary control, rather than surface-level text generation.
 
 【系统设定】
 
