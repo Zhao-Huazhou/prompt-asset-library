@@ -1,12 +1,17 @@
 # prompt-asset-library
-A curated library of prompts and prompt-driven designs for AI product & data engineering use cases
 
+一个面向 AI 产品与数据工程场景的 Prompt 与 Prompt 设计资产库。
 
-## License Note
+本仓库仅包含通用的 Prompt 设计思路与实践总结，
+不涉及任何雇主的专有系统、线上配置或商业机密信息。
 
-This repository is licensed under the Mozilla Public License 2.0.
+## 许可说明
 
-While this is a code-oriented license, the intent of this repository is to treat prompts as professional and cognitive assets.
-Commercial reuse is allowed under the license terms, but attribution and openness of modifications are expected.
+本仓库采用 Mozilla Public License 2.0（MPL-2.0）许可。
 
-If you intend to use this content as part of a commercial product, feel free to reach out.
+尽管 MPL-2.0 主要面向代码使用，
+在此选择该协议旨在强调署名、修改透明性以及负责任的复用方式。
+
+在遵循协议条款的前提下，允许将本仓库内容用于商业用途。
+若计划将其用于商业产品或服务，应保留署名并公开相关修改。
+如有需要，欢迎进一步交流。
